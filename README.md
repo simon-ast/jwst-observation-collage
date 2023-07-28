@@ -11,10 +11,10 @@ switch them with different (maybe at some point newer) results, or to
 highlight individual field (as exemplified on the right-hand side, where 
 the exoplanet atmosphere observations are in focus).
 
-<center>
-<img src="jwst-mirror-collage_full.png" width="49%">
-<img src="jwst-mirror-collage_focus.png" width="49%">
-</center>
+<p align="center">
+    <img src="jwst-mirror-collage_full.png" width="49%">
+    <img src="jwst-mirror-collage_focus.png" width="49%">
+</p>
 
 ## Image Sources
 From top to bottom, left to right, half-row by half-row, the sources for 
@@ -66,6 +66,6 @@ the individual images are:
     Mark Showalter (SETI Institute), Leigh Fletcher (University of 
     Leicester), Heidi Hammel (AURA). Image processing: J. DePasquale (STScI))
 
-<center>
-<img src="jwst-mirror-numbered.png" width="40%" class="right">
-</center>
+<p align="center">
+<img src="jwst-mirror-numbered.png" width="40%">
+</p>
